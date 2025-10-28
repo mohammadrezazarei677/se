@@ -87,7 +87,7 @@ public class LibraryService {
         System.out.println("تعداد کل کتاب‌ها: " + totalBooks);
         System.out.println("تعداد کل امانت‌ها: " + totalLoans);
         System.out.println("کتاب‌های در امانت فعلی: " + currentlyBorrowed);
-    }
+    }//.
 
     // جمع همه کاربران
     private List<User> allUsers() {
