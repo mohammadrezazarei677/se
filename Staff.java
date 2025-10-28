@@ -7,4 +7,4 @@ public class Staff extends User {
     public String toString() {
         return "Staff{" + username + "}";
     }
-}
+}//.
