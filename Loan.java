@@ -32,4 +32,4 @@ public class Loan {
     public String toString() {
         return "Loan{" + status + ", book=" + bookId + ", student=" + studentId + "}";
     }
-}
+}//.
