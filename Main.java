@@ -41,4 +41,4 @@ public class Main {
         System.out.println("\n📊 اطلاعات آماری:");
         lib.showGuestStats();
     }
-}
+}//.
