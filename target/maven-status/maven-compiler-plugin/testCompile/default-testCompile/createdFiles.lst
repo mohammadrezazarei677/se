@@ -1,0 +1,7 @@
+com\library\service\BorrowServiceTest.class
+com\library\service\ReportServiceTest.class
+com\library\repository\BookRepositoryTest.class
+com\library\service\BookServiceTest.class
+com\library\repository\BorrowRepositoryTest.class
+com\library\service\UserServiceTest.class
+com\library\repository\UserRepositoryTest.class
